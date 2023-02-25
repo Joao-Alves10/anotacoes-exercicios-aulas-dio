@@ -1,0 +1,25 @@
+mkdir - criar pasta
+cd - navega entre os diretórios
+cd .. - retrocede um nível
+echo hello > hello.txt - efetua mudança no arquivo, se estiver fora do stage, antes de add o arquivo com o comando "git add"
+clear - limpa a tela ou Ctrl + l
+tab - autocompleta os arquivos
+mv - mover arquivo 
+ls - listar
+ls -a - listar arquivos ocultos
+git init - criar novo repositório do Git
+git status - verifica o estado dos arquivos/diretórios
+git add - adiciona um arquivo/diretório específico 
+git add . - adiciona todos os arquivos/diretórios
+git add * - pega tudo que fo i modificado e muda o estado para stage para ser commitado
+git commit - comitar arquivo
+git commit -m "msg" - comitar informando mensagem
+git rm - remover arquivo/diretório
+git config --list - listar configurações
+git config --global user.name "nome" - setar usuário
+git config --global user.email "email" - setar email
+git push origin master - enviar para o GitHub
+git pull origin master - baixa o arquivo alterado na máquina e junta com a versão que já estava nela(no caso de houver conflito).
+
+
+
