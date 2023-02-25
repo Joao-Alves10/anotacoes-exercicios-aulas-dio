@@ -18,8 +18,8 @@ git rm - remover arquivo/diretório
 git config --list - listar configurações
 git config --global user.name "nome" - setar usuário
 git config --global user.email "email" - setar email
-git push origin master - enviar para o GitHub
-git pull origin master - baixa o arquivo alterado na máquina e junta com a versão que já estava nela(no caso de houver conflito).
+git push origin main - enviar para o GitHub
+git pull origin main - baixa o arquivo alterado na máquina e junta com a versão que já estava nela(no caso de houver conflito).
 
 
 
